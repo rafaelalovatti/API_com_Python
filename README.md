@@ -17,11 +17,11 @@ Cadastro:
 }
 
 OBS: Para realizar o cadastro, é importante seguir essas limitações:
-•	Nome: esse campo deve conter no máximo 80 caracteres.
-•	Data de nascimento: a data deve ser inserida no formato "DD-MM-YYYY" (dia-mês-ano)
-•	Endereço: esse campo deve conter no máximo 80 caracteres. 
-•	CPF: o CPF deve ter exatamente 11 dígitos numéricos, sem espaços ou caracteres especiais. 
-•	Estado civil: esse campo deve ser preenchido com um dos seguintes valores: “Solteiro”, “Solteira”, “Casado”, “Casada”, “Divorciado”, “Divorciada”, “Viúvo” ou “Viúva”, que são os estados civis válidos, de acordo com a lei brasileira.
++ Nome: esse campo deve conter no máximo 80 caracteres.
++ Data de nascimento: a data deve ser inserida no formato "DD-MM-YYYY" (dia-mês-ano).
++ Endereço: esse campo deve conter no máximo 80 caracteres.
++ CPF: o CPF deve ter exatamente 11 dígitos numéricos, sem espaços ou caracteres especiais.
++ Estado civil: esse campo deve ser preenchido com um dos seguintes valores: “Solteiro”, “Solteira”, “Casado”, “Casada”, “Divorciado”, “Divorciada”, “Viúvo” ou “Viúva”, que são os estados civis válidos, de acordo com a lei brasileira.
 
 5.	Clique em "Send" para concluir a operação de cadastro.
 
