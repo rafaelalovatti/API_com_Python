@@ -49,7 +49,7 @@ Por exemplo: http://127.0.0.1:5000/pessoas/01234567890
     "cpf": "01234567890",
     "estado_civil": "Casada"
 }
-** Nesse caso, foi alterado o estado civil da pessoa, atualizando-o para “Casada”.
++ Nesse caso, foi alterado o estado civil da pessoa, atualizando-o para “Casada”.
 
 4.	Clique em "Send" para finalizar a operação de atualização.
 
